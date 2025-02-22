@@ -64,6 +64,7 @@
                 "cortex-m35p",
                 "cortex-m55",
                 "cortex-m85",
+                "LPC11Uxx",
                 "MKL26Z64",
                 "MK20DX128",
                 "MK20DX256",
