@@ -9,9 +9,13 @@ Make example for this keyboard (after setting up your build environment):
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
-# Specs
+# Specs K70 Vengeance RGB
 MCU: LPC11U37F  
 RGB: AN32181
+
+# Specs Strafe RGB
+MCU: LPC11U37F  
+RGB: IS31FL3732
 
 # How to Flash
 * Press the button on the back or bottom of the keyboard while plugging it in
