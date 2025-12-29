@@ -22,3 +22,5 @@ RGB: IS31FL3732
 * CRP Disabled drive should show 
 * Either backup or delete the original firmware.bin from there
 * Copy the generated .bin file into the CRP Disabled drive. (Make sure to use Windows to copy the file as Linux has issues with the format for some reason)
+
+      dd if=corsair_k70_vengeance_rgb_default.bin of=/path/to/firmware.bin bs=512 conv=notrunc oflag=direct,sync
