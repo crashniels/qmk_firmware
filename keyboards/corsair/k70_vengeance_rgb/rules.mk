@@ -8,8 +8,6 @@ MCU_LDSCRIPT = LPC11U37F
 MCU_STARTUP = lpc11uxx
 BOARD = k70_vengeance_rgb
 
-DEFAULT_FOLDER=corsair/k70_vengeance_rgb
-
 #OPT_DEFS = -Wno-unused-function -fdump-rtl-dfinish -fstack-usage
 
 # Build Options
