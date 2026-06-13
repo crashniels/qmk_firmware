@@ -25,3 +25,5 @@ AUDIO_ENABLE = no           # Audio output
 LTO_ENABLE = yes			# Enables Link Time Optimization
 # Bootloader selection
 BOOTLOADER = custom
+CUSTOM_MATRIX = yes
+SRC += matrix.c
